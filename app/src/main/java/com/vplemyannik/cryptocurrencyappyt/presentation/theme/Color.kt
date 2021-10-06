@@ -1,4 +1,4 @@
-package com.vplemyannik.cryptocurrencyappyt.presentation
+package com.vplemyannik.cryptocurrencyappyt.presentation.theme
 
 import androidx.compose.ui.graphics.Color
 

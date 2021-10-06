@@ -1,4 +1,4 @@
-package com.vplemyannik.cryptocurrencyappyt.presentation
+package com.vplemyannik.cryptocurrencyappyt.presentation.theme
 
 import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material.Shapes
